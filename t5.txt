@@ -1,0 +1,12 @@
+#	Country	Population
+(2020)	Land Area
+(Km²)	Density
+(P/Km²)
+51	Ecuador	17,643,054	248,360	71
+52	Egypt	102,334,404	995,450	103
+53	El Salvador	6,486,205	20,720	313
+54	Equatorial Guinea	1,402,985	28,050	50
+55	Eritrea	3,546,421	101,000	35
+56	Estonia	1,326,535	42,390	31
+57	Eswatini (fmr. "Swaziland")	1,160,164	17,200	67
+58	Ethiopia	114,963,588	1,000,000	115

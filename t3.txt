@@ -1,0 +1,17 @@
+#	Country	Population
+(2020)	Land Area
+(Km²)	Density
+(P/Km²)
+24	Brazil	212,559,417	8,358,140	25
+25	Brunei	437,479	5,270	83
+26	Bulgaria	6,948,445	108,560	64
+27	Burkina Faso	20,903,273	273,600	76
+28	Burundi	11,890,784	25,680	463
+29	Côte d'Ivoire	26,378,274	318,000	83
+30	Cabo Verde	555,987	4,030	138
+31	Cambodia	16,718,965	176,520	95
+32	Cameroon	26,545,863	472,710	56
+33	Canada	37,742,154	9,093,510	4
+34	Central African Republic	4,829,767	622,980	8
+35	Chad	16,425,864	1,259,200	13
+36	Chile	19,116,201	743,532	26

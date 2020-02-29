@@ -1,0 +1,18 @@
+#	Country	Population
+(2020)	Land Area
+(Km²)	Density
+(P/Km²)
+37	China	1,439,323,776	9,388,211	153
+38	Colombia	50,882,891	1,109,500	46
+39	Comoros	869,601	1,861	467
+40	Congo (Congo-Brazzaville)	5,518,087	341,500	16
+41	Costa Rica	5,094,118	51,060	100
+42	Croatia	4,105,267	55,960	73
+43	Cuba	11,326,616	106,440	106
+44	Cyprus	1,207,359	9,240	131
+45	Czechia (Czech Republic)	10,708,981	77,240	139
+46	Democratic Republic of the Congo	89,561,403	2,267,050	40
+47	Denmark	5,792,202	42,430	137
+48	Djibouti	988,000	23,180	43
+49	Dominica	71,986	750	96
+50	Dominican Republic	10,847,910	48,320	225
